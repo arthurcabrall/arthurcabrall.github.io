@@ -1,0 +1,22 @@
+.banner{
+ background-color: pink;
+ text-align: center;
+ color: palevioletred;
+ padding: 100px 0;
+
+    
+}
+#banner-picture{
+    width: 100px;
+    height: 100px;
+   
+    
+}
+#toia{
+    color: black;
+    font-size: 100px;
+}
+
+.bold{
+    font-weight: 900;
+}
